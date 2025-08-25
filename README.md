@@ -3,7 +3,7 @@
 Repositório para a **Atividade JavaScript 02**.
 
 Funções implementadas
-1) verificaParOuImpar(numero) 
+<br>1) verificaParOuImpar(numero) 
 
 Parâmetro: numero (inteiro)
 
@@ -11,7 +11,7 @@ Retorno: "O número X é par." ou "O número X é ímpar."
 
 Finalidade: Indicar se o número é par ou ímpar.
 
-2) fatorial(n)
+<br>2) fatorial(n)
 
 Parâmetro: n (inteiro >= 0).
 
@@ -21,7 +21,7 @@ Finalidade: Calcular fatorial usando estrutura de repetição.
 
 Observação: 0! = 1.
 
-3) maiorNumero(array)
+<br>3) maiorNumero(array)
 
 Parâmetro: array (array de números, não-vazio).
 
